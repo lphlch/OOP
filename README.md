@@ -1,2 +1,2 @@
 # OOP
- Object Oriented Program
+This repository stoles codes of class Object Oriented Programing
